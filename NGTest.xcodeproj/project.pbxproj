@@ -21,6 +21,7 @@
 		AB25DFBB2E9F011A0008630E /* HostingArticleViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB25DFBA2E9F011A0008630E /* HostingArticleViewCell.swift */; };
 		AB25DFBD2E9F01280008630E /* ArticleViewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB25DFBC2E9F01280008630E /* ArticleViewData.swift */; };
 		AB25DFC02E9F09A70008630E /* DateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB25DFBF2E9F09A00008630E /* DateFormatter.swift */; };
+		AB417EB32E9F13C2002865FF /* ArticleViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB417EB22E9F13BF002865FF /* ArticleViewModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		AB25DFBA2E9F011A0008630E /* HostingArticleViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostingArticleViewCell.swift; sourceTree = "<group>"; };
 		AB25DFBC2E9F01280008630E /* ArticleViewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewData.swift; sourceTree = "<group>"; };
 		AB25DFBF2E9F09A00008630E /* DateFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatter.swift; sourceTree = "<group>"; };
+		AB417EB22E9F13BF002865FF /* ArticleViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		974FC7AF227BB11C00C94130 /* NGTestTests */ = {
 			isa = PBXGroup;
 			children = (
+				AB417EB22E9F13BF002865FF /* ArticleViewModelTests.swift */,
 				974FC7B0227BB11C00C94130 /* NGTestTests.swift */,
 				974FC7B2227BB11C00C94130 /* Info.plist */,
 			);
@@ -281,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB417EB32E9F13C2002865FF /* ArticleViewModelTests.swift in Sources */,
 				974FC7B1227BB11C00C94130 /* NGTestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
