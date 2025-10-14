@@ -1,2 +1,0 @@
-# LaPresseProject
-Test technique
